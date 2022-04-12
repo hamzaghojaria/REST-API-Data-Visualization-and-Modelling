@@ -1,4 +1,4 @@
-# REST-API-Data-Visualization-and-Modelling-
+# REST-API-Data-Visualization-and-Modelling
 REST API Data Visualization and Modelling 
 
 Note:
